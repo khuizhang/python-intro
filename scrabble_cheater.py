@@ -1,5 +1,5 @@
 import sys
-import .scrabble
+import scrabble
 
 
 def valid_word(word, rack):
